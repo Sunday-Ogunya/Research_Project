@@ -1,0 +1,2 @@
+Best Alpha,MAE,RMSE,R²,Train Score,Test Score,Gap,best_model
+1,0.08841273197089801,0.012873611526507598,0.9868623092172458,-0.054373261257601904,-0.11346193866891045,0.05908867741130855,"Pipeline(steps=[('scaler', StandardScaler()), ('ridge', Ridge(alpha=1))])"
